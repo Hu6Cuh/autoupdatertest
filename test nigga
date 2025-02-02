@@ -21,7 +21,7 @@ CoordMode, Pixel, Relative
 CoordMode, Mouse, Relative
 
 ;   GUI CREATION ------------------------------------------------------------------------------------------;
-Gui,+AlwaysOnTop
+msgbox, this has been updated
 Gui, Font, cWhite s10 q5, Segoe UI
 Gui +hWndhMain
 Gui, Color, 000000
